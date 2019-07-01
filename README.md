@@ -1,6 +1,5 @@
-# Project
+#Database Query Optimization:
 
-Database Query Optimization (Ashwini):
 The code structure consists of Hashmap to map table_name to column_name_list
 
 HashMap<String, Column> hmap	
