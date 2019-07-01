@@ -1,4 +1,4 @@
-#Database Query Optimization:
+# Database Query Optimization:
 
 The code structure consists of Hashmap to map table_name to column_name_list
 
